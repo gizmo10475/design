@@ -63,6 +63,22 @@ body {
     max-width: 72em;
 }
 
+.index_image {
+    float: left;
+    margin: auto;
+    display: flex;
+    width: 50%;
+    margin-top: 3em;
+}
+
+.index_image2 {
+    float: right;
+    margin: auto;
+    display: flex;
+    width: 50%;
+    margin-top: 3em;
+}
+
 /* very ugly overflow fix, avoid this whenever possible! */
 
 .main .container {
