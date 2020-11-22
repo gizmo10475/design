@@ -1,0 +1,117 @@
+@import '../../shared/scss/variables';
+
+.landingpage {
+    display: grid;
+    gap: 2em 0;
+    justify-items: center;
+}
+
+.landingpage h1 {
+    grid-column: span 3;
+    justify-content: center;
+}
+// THIS IS THE START OF THE MENU PAGE
+.menupage {
+    display: grid;
+    justify-items: center;
+    gap: 2em;
+}
+
+.menupage h1 {
+    grid-column: span 2;
+    justify-content: center;
+}
+
+.reportright {
+    grid-column: span 1;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    display: flex;
+    flex-direction: column;
+    padding: 1em;
+    width: 60em;
+    justify-self: start;
+    background-color: rgb(255, 255, 255, 0.5);
+}
+
+.menu {
+    justify-self: end;
+    font-size: 140%;
+    padding-bottom: 2em;
+}
+// END OF THE MENU PAGE
+.kmom-box {
+    grid-column: span 1;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    display: flex;
+    flex-direction: column;
+    padding: 1em;
+    width: 55%;
+}
+
+.a {
+    justify-self: end;
+    // background-color: #808080;
+}
+
+.b {
+    justify-self: center;
+}
+
+.c {
+    justify-self: start;
+}
+
+.a,
+.b,
+.c,
+.project {
+    background-color: #fff;
+    width: 55%;
+}
+
+.project {
+    grid-column: span 3;
+    width: 70%;
+    justify-items: center;
+}
+
+.fas.fa-arrow-right {
+    float: right;
+    font-size: 180%;
+}
+
+@media (max-width: 1000px) {
+    .landingpage,
+    .kmom-box,
+    .kmom-box.project {
+        margin: auto;
+        grid-column: span 3;
+        justify-self: center;
+        align-items: center;
+        width: 80%;
+    }
+
+    .reportright,
+    .menu {
+        // width: 90%;
+        grid-column: span 3;
+        justify-self: center;
+        padding: 0;
+        margin: 0;
+        width: 93%;
+    }
+
+    .menu {
+        display: none;
+    }
+
+    .menupage h1 {
+        // grid-column: span 1;
+        // justify-content: center;
+        // margin: auto;
+        // text-align: center;
+        // align-items: center;
+        margin-left: 1em;
+    }
+
+}

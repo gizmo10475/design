@@ -1,15 +1,43 @@
 ---
 Title: Report
 Description: This is my report page.
+Template: report
 ---
 
 Report page
 ==========================
-<hr>
+<!-- <hr> -->
+<div class="kmom-box a">
+    <a href="report/kmom01" class="rubrik"><h2>kmom01</h2></a>
+    <p>Jag har nu påbörjat kursen och tycks vara klar med mitt första kursmoment. Detta är första... <br> <a href="report/kmom01"><i class="fas fa-arrow-right"></i></a></p>
+</div>
 
-* [kmom01](report/kmom01)
-* [kmom02](report/kmom02)
-* [kmom03 (NOT DONE)](report/kmom03)
-* [kmom04 (NOT DONE)](report/kmom04)
-* [kmom05 (NOT DONE)](report/kmom05)
-* [kmom06 (NOT DONE)](report/kmom06)
+<div class="kmom-box b">
+    <a href="report/kmom02"><h2>kmom02</h2></a>
+    <p>Nu har jag äntligen färdigställt samtliga krav inom det andra kursmomentet. Det har varit väldigt... <br> <a href="report/kmom02"><i class="fas fa-arrow-right"></i></a></p>
+</div>
+
+<div class="kmom-box c">
+    <a href="report/kmom03"><h2>kmom03</h2></a>
+    <p>Kmom03 är klar och jag genomförde detta moment med ett léende på läpparna. Jag har alltid velat... <br> <a href="report/kmom03"><i class="fas fa-arrow-right"></i></a></p>
+</div>
+
+<div class="kmom-box a">
+    <a href="#"><h2>kmom04</h2></a>
+    <p>Ej klar...</p>
+</div>
+
+<div class="kmom-box b">
+    <a href="#"><h2>kmom05</h2></a>
+    <p>Ej klar...</p>
+</div>
+
+<div class="kmom-box c">
+    <a href="#"><h2>kmom06</h2></a>
+    <p>Ej klar...</p>
+</div>
+
+<div class="kmom-box project">
+    <a href="#"><h2>kmom10</h2></a>
+    <p>Ej klar...</p>
+</div>
