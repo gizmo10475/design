@@ -8,8 +8,12 @@
     "lint": "stylelint \"**/*.scss\"",
     "watch": "sass EddieTheme/scss/style.scss EddieTheme/css/style.css --no-source-map --watch",
     "watch-min": "sass EddieTheme/scss/style.scss EddieTheme/css/style.min.css --no-source-map ---style compressed --watch",
-    "style": "sass EddieTheme/scss/style.scss EddieTheme/css/style.css --no-source-map",
-    "style-min": "sass EddieTheme/scss/style.scss EddieTheme/css/style.min.css --no-source-map --style compressed"
+    "style": "npm run style-light && npm run style-dark",
+    "style-min": "npm run style-light-min && npm run style-dark-min",
+    "style-light": "sass EddieTheme/scss/style.scss EddieTheme/css/style.css --no-source-map",
+    "style-light-min": "sass EddieTheme/scss/style.scss EddieTheme/css/style.min.css --no-source-map --style compressed",
+    "style-dark": "sass EddieTheme/scss/style-dark.scss EddieTheme/css/style-dark.css --no-source-map",
+    "style-dark-min": "sass EddieTheme/scss/style-dark.scss EddieTheme/css/style-dark.min.css --no-source-map --style compressed"
   },
   "keywords": [],
   "author": "",

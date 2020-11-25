@@ -13,4 +13,12 @@ Social:
     - title: Link till sidans github repo.
       url: https://github.com/gizmo10475/design/tree/master
       icon: fab fa-github
+
+    - title: Förstör session
+      url: ?action=session_destroy
+      icon: fas fa-trash
+
+    - title: Dark theme
+      url: ?action=theme
+      icon: fas fa-moon
 ---
