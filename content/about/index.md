@@ -5,7 +5,7 @@ Description: This is my about page.
 
 About page
 ==========================
-<hr>
+<hr class="line">
 Detta är en hemsida gjord av Edvin Fajkovic i utbildningssyfte. Hemsidan byggs på ett CMS som är helt nytt för mig så kallat Pico. <br>
 Pico är ett CMS som känns väldigt städat och modernt i koden samt förenklat på ett så sätt där man slipper jobba i röriga HTML-5 filer på samma sätt som man traditionellt gör när man bygger hemsidor. <br> 
 Istället för traditionell CSS så använder jag också SCSS eller SASS som det också heter. Det blir lättare för utvecklaren att göra stora style filer som sedan kompileras ner till mini-css-filer. Jag har för övrigt lagt över hela min vanliga CSS till SCSS. <br>

@@ -102,7 +102,7 @@ body {
     max-width: 72em;
     padding: 0 0.5em;
     margin: 0 auto;
-    background-color: rgb(255, 255, 255, 0.5);
+    background-color: $container;
 }
 
 
@@ -179,7 +179,7 @@ body {
     text-align: right;
 
     a {
-        color: #333;
+        color: $navlink;
     }
 }
 
@@ -197,18 +197,18 @@ body {
 }
 
 .nav-toggle {
-    color: #333;
+    color: $navlink;
 }
 
 .nav .active a,
 .nav a:hover,
 .nav-toggle:hover {
-    color: #949b70;
+    color: $navhover;
 }
 
 .nav a:hover,
 .nav-toggle:hover {
-    color: #6d7a2b;
+    color: $navtoggle;
     text-decoration: underline;
 }
 
@@ -224,24 +224,20 @@ body {
     clear: both;
 }
 
-.flash-img {
-    height: 100%;
-}
-
 /*** BASIC LAYOUT: FOOTER ***/
 
 .footer {
-    background: #707070;
-    color: #c0c0c0;
+    background: $footer-color;
+    color: $footer-text;
 
     a {
-        color: #ddd;
+        color: $footer-text;
     }
 }
 
 
 .footer a:hover {
-    color: #fff;
+    color: $footer-text;
 }
 
 .footer p {
@@ -328,7 +324,7 @@ body {
     font-variant-ligatures: common-ligatures;
     text-rendering: optimizeLegibility;
     font-kerning: normal;
-    color: #444;
+    color: $container-text-color;
 }
 
 p,
@@ -356,13 +352,13 @@ fieldset {
 }
 
 a {
-    color: #2eae9b;
+    color: $lightblue;
     text-decoration: none;
     transition: color 0.2s ease-in;
 }
 
 a:hover {
-    color: #444;
+    color: $container-text-color;
 }
 
 
@@ -397,9 +393,9 @@ img {
 }
 
 hr {
-    border: 0.15em solid #f5f5f5;
+    border: 0.15em solid $hrbackground;
     border-radius: 0.3em;
-    background: #f5f5f5;
+    background: $hrbackground;
 }
 
 abbr {
@@ -496,13 +492,13 @@ th {
 th {
     font-weight: bold;
     text-align: center;
-    background: #f5f5f5;
-    color: #333;
+    background: $hrbackground;
+    color: $navlink;
 }
 
 td,
 th {
-    border: 1px solid #ccc;
+    border: 1px solid $border;
 }
 
 tr:not(:last-child) td,
@@ -578,9 +574,9 @@ dd {
 code {
     margin: 0 0.1em;
     padding: 0.1em 0.2em;
-    border: 1px solid #ccc;
+    border: 1px solid $border;
     border-radius: 0.3em;
-    background: #f5f5f5;
+    background: $hrbackground;
     font-family: monospace;
     font-size: 0.85rem;
     line-height: 1.9824;
@@ -588,9 +584,9 @@ code {
 
 pre {
     padding: 0 1em;
-    border: 1px solid #ccc;
+    border: 1px solid $border;
     border-radius: 0.3em;
-    background: #f5f5f5;
+    background: $hrbackground;
 }
 
 pre code {
@@ -609,7 +605,7 @@ blockquote {
     font-style: italic;
     margin-left: 1em;
     padding-left: 1em;
-    border-left: 0.5em solid #f5f5f5;
+    border-left: 0.5em solid $hrbackground;
 }
 
 /*** FORMS ***/
@@ -625,9 +621,9 @@ select,
 textarea,
 fieldset,
 fieldset legend {
-    border: 1px solid #ccc;
+    border: 1px solid $border;
     border-radius: 0.3em;
-    background: #fff;
+    background: $hrbackground;
     transition: none 0.2s ease-in;
     transition-property: border-color, background, box-shadow;
 }
@@ -645,14 +641,14 @@ input:focus:not([type='checkbox']):not([type='radio']),
 button:focus,
 select:focus,
 textarea:focus {
-    border-color: #2eae9b;
-    box-shadow: 0 0 8px #2eae9b;
+    border-color: $lightblue;
+    box-shadow: 0 0 8px $lightblue;
 }
 
 input:focus,
 button:focus,
 button:hover {
-    background: #f5f5f5;
+    background: $hrbackground;
     cursor: pointer;
 }
 
@@ -664,7 +660,7 @@ select {
 
 fieldset {
     padding: 1em;
-    background: #f5f5f5;
+    background: $hrbackground;
 }
 
 fieldset legend {

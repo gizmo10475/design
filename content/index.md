@@ -5,7 +5,7 @@ Description: This is our index page.
 
 Home page
 ==========================
-<hr>
+<hr class="line">
 Mitt namn är Edvin "Eddie" Fajkovic. Jag är född och uppvuxen i Karlskrona trakterna och trivs bra här. 
 
 Jag har ett brinnande intresse för teknik och främst bilar då jag även är hobbymekaniker och gärna spenderar min lediga tid på olika projekt i min verkstad.

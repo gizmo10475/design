@@ -23,8 +23,8 @@ Report page
 </div>
 
 <div class="kmom-box a">
-    <a href="#"><h2>kmom04</h2></a>
-    <p>Ej klar...</p>
+    <a href="report/kmom04"><h2>kmom04</h2></a>
+    <p>Kmom04 är klar och jag genomförde detta moment med ett léende på läpparna. Jag har alltid velat... <br> <a href="report/kmom04"><i class="fas fa-arrow-right"></i></a></p>
 </div>
 
 <div class="kmom-box b">

@@ -6487,7 +6487,7 @@ readers do not read off random characters that represent icons */
   padding: 1em;
   width: 60em;
   justify-self: start;
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(255, 255, 255, 0.808);
 }
 
 .menu {
@@ -6503,6 +6503,7 @@ readers do not read off random characters that represent icons */
   flex-direction: column;
   padding: 1em;
   width: 55%;
+  color: #7c7c7c;
 }
 
 .a {
@@ -6521,7 +6522,6 @@ readers do not read off random characters that represent icons */
 .b,
 .c,
 .project {
-  background-color: #fff;
   width: 55%;
 }
 
@@ -6534,6 +6534,13 @@ readers do not read off random characters that represent icons */
 .fas.fa-arrow-right {
   float: right;
   font-size: 180%;
+}
+
+.containertextdark {
+  max-width: 72em;
+  padding: 0 0.5em;
+  margin: 0 auto;
+  background-color: rgba(255, 255, 255, 0.5);
 }
 
 @media (max-width: 1000px) {
@@ -6778,21 +6785,17 @@ body {
   clear: both;
 }
 
-.flash-img {
-  height: 100%;
-}
-
 /*** BASIC LAYOUT: FOOTER ***/
 .footer {
-  background: #707070;
-  color: #c0c0c0;
+  background: #75ada344;
+  color: #444;
 }
 .footer a {
-  color: #ddd;
+  color: #444;
 }
 
 .footer a:hover {
-  color: #fff;
+  color: #444;
 }
 
 .footer p {
@@ -7167,7 +7170,7 @@ fieldset,
 fieldset legend {
   border: 1px solid #ccc;
   border-radius: 0.3em;
-  background: #fff;
+  background: #f5f5f5;
   transition: none 0.2s ease-in;
   transition-property: border-color, background, box-shadow;
 }
