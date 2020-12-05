@@ -1,6 +1,6 @@
 ---
 Title: Färger
-Description: This is my report page for kmom01.
+Description: Färganalys.
 ---
 
 Färgpalett och typografi

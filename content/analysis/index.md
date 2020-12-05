@@ -13,8 +13,8 @@ Analys
 </div>
 
 <div class="kmom-box b">
-    <a href="report/kmom02"><h2>Under utveckling</h2></a>
-    <p>Under utveckling... <br> <a href="#"><i class="fas fa-arrow-right"></i></a></p>
+    <a href="analysis/02_load"><h2>Laddningstid</h2></a>
+    <p>Laddningstid och användbarhet<br> <a href="analysis/02_load"><i class="fas fa-arrow-right"></i></a></p>
 </div>
 
 <div class="kmom-box c">
