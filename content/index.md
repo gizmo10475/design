@@ -15,5 +15,5 @@ Annars är jag även intresserad av jakt och fiske.
 Det jag älskar att göra mest av allt är att åka utomlands vilket jag fått göra under hela min uppväxt. Mitt favoritland att resa till är Spanien men det coolaste stället jag varit på är Jamaica.
 
 Design är något som jag själv tycker är en av mina svagheter då nästan alla mina hemsidor ser ungefär likadana ut med mindre ändringar. Med det sagt så ska det bli väldigt kul och lärorikt att läsa denna kurs.
-<img src="assets/img/bil.JPG" class="indeximage"> 
-<img src="assets/img/eddie.png" class="indeximage2"> 
+<img src="assets/img/bil.JPG" class="indeximage" alt="indeximage"> 
+<img src="assets/img/eddie.png" class="indeximage2" alt="indeximage2"> 

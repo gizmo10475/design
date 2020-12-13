@@ -22,6 +22,10 @@
     justify-content: center;
 }
 
+.darkwhite {
+    color: #fff;
+}
+
 .reportright {
     grid-column: span 1;
     border: 1px solid rgba(0, 0, 0, 0.4);
@@ -30,7 +34,7 @@
     padding: 1em;
     width: 60em;
     justify-self: start;
-    background-color: rgba(255, 255, 255, 0.808);
+    background-color: rgba(255, 255, 255, 0.911);
 }
 
 .menu {
@@ -46,7 +50,7 @@
     flex-direction: column;
     padding: 1em;
     width: 55%;
-    color: rgb(124, 124, 124);
+    color: #292929;
 }
 
 .a {

@@ -7,12 +7,12 @@ Template: kmom
 kmom02
 ==========================
 <div class="menu">
-<a href="kmom01">kmom01</a><br>
-<a href="kmom02">kmom02</a><br>
-<a href="kmom03">kmom03</a><br>
-<a href="kmom04">kmom04</a><br>
-<a href="kmom05">kmom05</a><br>
-<a href="kmom06">kmom06</a><br>
+<a href="kmom01" class="clrlink">kmom01</a><br>
+<a href="kmom02" class="clrlink">kmom02</a><br>
+<a href="kmom03" class="clrlink">kmom03</a><br>
+<a href="kmom04" class="clrlink">kmom04</a><br>
+<a href="kmom05" class="clrlink">kmom05</a><br>
+<a href="kmom06" class="clrlink">kmom06</a><br>
 
 </div>
 <div class="reportright">

@@ -23,8 +23,8 @@ Färger skall studeras samt utvärderas genom att besöka respektive hemsida sam
 Typsnitt skall också studeras samt utvärderas. Vi hittar enkelt typsnitt genom Google Chrome's egna funktion "DevTools" där vi enkelt ser bland annat webbplatsens filer.<br><br><br>
 
 <h2>Resultat</h2>
-<h4>Monster Energy </h4><br>
-<img src="../assets/img/monster.png" class="#">
+<p>Monster Energy </p><br>
+<img src="../assets/img/monster.png" alt="monster">
 Monster Energy har ett mörkt och lugnt tema som inte är jobbigt att kolla på. Färgen på deras orginal-dricka är den viktigaste färgen för dom även om loggan har olika färger på alla drycker. Loggans har lite olika färger och ett typiskt monokromatiskt färgschema där det går från en gulaktig färg till en mörkare grön färg. Färgen till höger i palleten nedan används bland annat till knappar på hemsidan.
 <table style="border-spacing: 4px; border-collapse: separate">
 <tr>
@@ -43,8 +43,8 @@ Fonten till vanliga brödtexter heter <i>Open Sans.</i> Denna font skrivs som en
 Det känns som monster har använt rätt typografival och färgval på sin webbsida. Hela märket monster skall vara en skrikande grön på svart bakgrund och hemsidan lyckas spegla av produkterna väldigt bra. Proxima nova fonten är enligt mig ett mycket bra val för bland annat navbar. De gör absolut rätt med att skriva ut allt med stora boxtäver och det blir inte för skrikande. Open Sans känns dock lite tråkig men den är tillagd på längre texter vilket gör det lättläst.<br>
 <hr>
 
-<h4>Rockstar Energy </h4><br>
-<img src="../assets/img/rockstar.png" class="#">
+<p>Rockstar Energy </p><br>
+<img src="../assets/img/rockstar.png" alt="rockstar">
 Jag har valt att kolla främst på undersidorna då index sidan endast innehåller en enda stor slideshow där de byter bilder rätt ofta.<br>
 Rockstar Energy är väldigt lik föregående webbplats. En mörkare bakgrund med en skrikande färg. Denna gång en gul färg som är tagen från deras egna orginal-logga och även här har dom samma logga fast med andra färger på olika produkter. Här är det en enda gul nyans med två olika bakgrundsfärger, en mörkgrå till header/footer och en ännu mörkare till body. 
 <table style="border-spacing: 4px; border-collapse: separate">
@@ -65,8 +65,8 @@ Texten är skriven tydligt och det är lättläst med denna specifika font.
 
 <hr>
 
-<h4>RedBull </h4><br>
-<img src="../assets/img/redbull.png" class="#">
+<p>RedBull </p><br>
+<img src="../assets/img/redbull.png" alt="redbull">
 Redbulls hemsida är väldigt rörig med stora bilder och videor. Med detta så kommer det många olika färger. Jag kommer även här begränsa mig till hemsidans stomme. <br>
 Här finner vi en varm röd färg tagen från deras logotyp, en blå färg till header och footer som är samma blå färg som dom har på orginal drickan. samt en vit färg till bakgrunden.
 <table style="border-spacing: 4px; border-collapse: separate">

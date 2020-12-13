@@ -7,12 +7,12 @@ Template: kmom
 kmom05
 ==========================
 <div class="menu">
-<a href="kmom01">kmom01</a><br>
-<a href="kmom02">kmom02</a><br>
-<a href="kmom03">kmom03</a><br>
-<a href="kmom04">kmom04</a><br>
-<a href="kmom05">kmom05</a><br>
-<a href="kmom06">kmom06</a><br>
+<a href="kmom01" class="clrlink">kmom01</a><br>
+<a href="kmom02" class="clrlink">kmom02</a><br>
+<a href="kmom03" class="clrlink">kmom03</a><br>
+<a href="kmom04" class="clrlink">kmom04</a><br>
+<a href="kmom05" class="clrlink">kmom05</a><br>
+<a href="kmom06" class="clrlink">kmom06</a><br>
 
 </div>
 <div class="reportright">
@@ -29,5 +29,5 @@ Min TIL för detta kursmomentet är att det är mycket lättare att göra snygga
 <p> .</p>
 
 <div class="embed-container">
-    <iframe src="https://www.youtube.com/embed/dy8u5LXyRVY" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/dy8u5LXyRVY" title="vid" frameborder="0" allowfullscreen></iframe>
 </div>

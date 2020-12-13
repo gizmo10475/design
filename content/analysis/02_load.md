@@ -12,14 +12,14 @@ Laddningstid och användbarhet
 även titta på om det finns saker som skulle kunna ändras för att förbättra laddningstiden.</p>
 
 <h2>Urval</h2>
-<p>Vi har valt hemsidorna <a href="https://www.gucci.com/se/en_gb/">Gucci</a>,
-<a href="https://www.vans.se">Vans</a> och <a href="https://www.adidas.se">Adidas</a>.
+<p>Vi har valt hemsidorna <a href="https://www.gucci.com/se/en_gb/" class="clrlink">Gucci</a>,
+<a href="https://www.vans.se" class="clrlink">Vans</a> och <a href="https://www.adidas.se" class="clrlink">Adidas</a>.
 När vi gjorde vårt urval var tanken att se hur laddningstiden för hemsidor med
 många olika bilder, artiklar, påverkas.</p>
 
-<a href="../assets/img/Gucci.png"><img src="../assets/img/Gucci.png" class="loadimg"></a>
-<a href="../assets/img/Adidas.png"><img src="../assets/img/Adidas.png" class="loadimg"></a>
-<a href="../assets/img/Vans.png"><img src="../assets/img/Vans.png" class="loadimg"></a>
+<a href="../assets/img/Gucci.png"><img src="../assets/img/Gucci.png" class="loadimg" alt="clothesImg" aria-label="load"></a>
+<a href="../assets/img/Adidas.png"><img src="../assets/img/Adidas.png" class="loadimg" alt="clothesImg" aria-label="load"></a>
+<a href="../assets/img/Vans.png"><img src="../assets/img/Vans.png" class="loadimg" alt="clothesImg" aria-label="load"></a>
 
 <h2>Metod</h2>
 
@@ -31,7 +31,7 @@ Varje mätning görs tre gånger för att få ett bra genomsnittsvärde där res
 
 
 <h2>Resultat</h2>
-<a href="https://docs.google.com/spreadsheets/d/1if694Pc15u_TuJ-9rSA_e7pEUw-5veBez6yrHGaCqTU/edit#gid=0">https://docs.google.com/spreadsheets/d/1if694Pc15u_TuJ-9rSA_e7pEUw-5veBez6yrHGaCqTU/edit#gid=0 </a><br><br>
+<a href="https://docs.google.com/spreadsheets/d/1if694Pc15u_TuJ-9rSA_e7pEUw-5veBez6yrHGaCqTU/edit#gid=0" class="clrlink">https://docs.google.com/spreadsheets/d/1if694Pc15u_TuJ-9rSA_e7pEUw-5veBez6yrHGaCqTU/edit#gid=0 </a><br><br>
 
 Gucci - För att förbättra hemsidans laddningstid så borde Gucci inte ha ett stort bildspel högst upp på sidan. De har även bilder på väskor som ändras ungefär varannan sekund. <br><br>
 
@@ -58,14 +58,14 @@ En annan felkälla är vår kompetens inom laddningstider. Vi är helt nya inom 
 
 
 <h2>Referenser</h2>
-<a href="https://developers.google.com/speed/pagespeed/insights/">https://developers.google.com/speed/pagespeed/insights/ </a><br>
-<a href="https://www.gucci.com/se/en_gb/">https://www.gucci.com/se/en_gb/</a><br>
-<a href="https://www.vans.se">https://www.vans.se</a><br>
-<a href="https://www.adidas.se">https://www.adidas.se</a><br>
-<a href="https://www.websitebuilderexpert.com/building-websites/website-load-time-statistics/">https://www.websitebuilderexpert.com/building-websites/website-load-time-statistics/</a><br>
+<a href="https://developers.google.com/speed/pagespeed/insights/" class="clrlink">https://developers.google.com/speed/pagespeed/insights/ </a><br>
+<a href="https://www.gucci.com/se/en_gb/" class="clrlink">https://www.gucci.com/se/en_gb/</a><br>
+<a href="https://www.vans.se" class="clrlink">https://www.vans.se</a><br>
+<a href="https://www.adidas.se" class="clrlink">https://www.adidas.se</a><br>
+<a href="https://www.websitebuilderexpert.com/building-websites/website-load-time-statistics/" class="clrlink">https://www.websitebuilderexpert.com/building-websites/website-load-time-statistics/</a><br>
 
 <h2>Övrigt</h2>
-Ett arbete skrivet av Edvin Fajkovic och <a href="http://www.student.bth.se/~sijn20/dbwebb-kurser/design/me/portfolio/">Sigrid Jönsson</a> som en del av kursen Teknisk webbdesign och användbarhet.<br><br>
+Ett arbete skrivet av Edvin Fajkovic och <a href="http://www.student.bth.se/~sijn20/dbwebb-kurser/design/me/portfolio/" class="clrlink">Sigrid Jönsson</a> som en del av kursen Teknisk webbdesign och användbarhet.<br><br>
 
 2020-12-03
 <br><br>
