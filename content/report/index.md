@@ -38,6 +38,6 @@ Report page
 </div>
 
 <div class="kmom-box project">
-    <a href="#"><h2>kmom10</h2></a>
-    <p>Ej klar...</p>
+    <a href="report/kmom10"><h2>kmom10</h2></a>
+    <p>Nu har jag gjort klart mitt sista kursmoment innan projektet och det känns... <br> <a href="report/kmom10"><i class="fas fa-arrow-right" aria-label="next"></i></a></p>
 </div>

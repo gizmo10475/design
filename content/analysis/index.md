@@ -22,3 +22,7 @@ Analys
     <p>Webbplatsers designprinciper <br> <a href="analysis/03_design"><i class="fas fa-arrow-right" aria-label="right"></i></a></p>
 </div>
 
+<div class="kmom-box a">
+    <a href="analysis/10_webbplatsdesign"><h2>Webbplatsdesign kmom10</h2></a>
+    <p>Webbplatsdesign <br> <a href="analysis/10_webbplatsdesign"><i class="fas fa-arrow-right" aria-label="right"></i></a></p>
+</div>
